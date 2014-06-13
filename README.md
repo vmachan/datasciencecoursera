@@ -1,4 +1,4 @@
-data-science-toolkit
-====================
+datasciencecoursera
+===================
 
 Data science toolkit repository
